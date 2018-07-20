@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.Polymorphism", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.Overload", "TrainingPOO.Overload\TrainingPOO.Overload.csproj", "{0365FF93-9FF0-4F8F-BACD-D5D801A91182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.CompositionAndAggregation", "TrainingPOO.CompositionAndAggregation\TrainingPOO.CompositionAndAggregation.csproj", "{A0138C14-AF91-45B9-BCE1-BAB5B0B24C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.ClassAndObject", "TrainingPOO.ClassAndObject\TrainingPOO.ClassAndObject.csproj", "{F7AE8477-A158-4579-A5DD-D3E9415A7E84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{0365FF93-9FF0-4F8F-BACD-D5D801A91182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0365FF93-9FF0-4F8F-BACD-D5D801A91182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0365FF93-9FF0-4F8F-BACD-D5D801A91182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0138C14-AF91-45B9-BCE1-BAB5B0B24C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0138C14-AF91-45B9-BCE1-BAB5B0B24C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0138C14-AF91-45B9-BCE1-BAB5B0B24C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0138C14-AF91-45B9-BCE1-BAB5B0B24C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AE8477-A158-4579-A5DD-D3E9415A7E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AE8477-A158-4579-A5DD-D3E9415A7E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AE8477-A158-4579-A5DD-D3E9415A7E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AE8477-A158-4579-A5DD-D3E9415A7E84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
