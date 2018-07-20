@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.Polimorfismo", "TrainingPOO.Polimorfismo\TrainingPOO.Polimorfismo.csproj", "{75A2852B-8890-4455-9114-006D9BD590BE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.Inheritance", "TrainingPOO.Inheritance\TrainingPOO.Inheritance.csproj", "{58ACF6FE-4389-4833-B8D3-E9995CFD9917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.Polymorphism", "TrainingPOO.Polymorphism\TrainingPOO.Polymorphism.csproj", "{CD036F69-E831-4FDC-A239-1166789751A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPOO.Overload", "TrainingPOO.Overload\TrainingPOO.Overload.csproj", "{0365FF93-9FF0-4F8F-BACD-D5D801A91182}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +12,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75A2852B-8890-4455-9114-006D9BD590BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75A2852B-8890-4455-9114-006D9BD590BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75A2852B-8890-4455-9114-006D9BD590BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75A2852B-8890-4455-9114-006D9BD590BE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{58ACF6FE-4389-4833-B8D3-E9995CFD9917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{58ACF6FE-4389-4833-B8D3-E9995CFD9917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58ACF6FE-4389-4833-B8D3-E9995CFD9917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58ACF6FE-4389-4833-B8D3-E9995CFD9917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD036F69-E831-4FDC-A239-1166789751A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD036F69-E831-4FDC-A239-1166789751A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD036F69-E831-4FDC-A239-1166789751A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD036F69-E831-4FDC-A239-1166789751A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0365FF93-9FF0-4F8F-BACD-D5D801A91182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0365FF93-9FF0-4F8F-BACD-D5D801A91182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0365FF93-9FF0-4F8F-BACD-D5D801A91182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0365FF93-9FF0-4F8F-BACD-D5D801A91182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
